@@ -39,13 +39,13 @@ h1, p{
 
 aside{
     float:left;
-    width: 47%;
+    width: 49.5%;
     height:200px;
     margin-bottom:10px;
 }
 
 section{
-    margin-right: 26px;
+    margin-right: 0px;
     width: 47%;
     float:left;
     height: 200px;
